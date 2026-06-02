@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "dgSpecHash": "Smt9UG83rt8=",
+  "success": true,
+  "projectFilePath": "D:\\VSprojects\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LALO\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\blazored.toast\\4.2.1\\blazored.toast.4.2.1.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.6.0\\currietechnologies.razor.sweetalert2.5.6.0.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.8\\microsoft.aspnetcore.app.internal.assets.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.8\\microsoft.aspnetcore.authorization.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.aspnetcore.components\\10.0.8\\microsoft.aspnetcore.components.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\10.0.8\\microsoft.aspnetcore.components.analyzers.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\10.0.8\\microsoft.aspnetcore.components.authorization.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\10.0.7\\microsoft.aspnetcore.components.forms.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.aspnetcore.components.web\\10.0.7\\microsoft.aspnetcore.components.web.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\10.0.7\\microsoft.aspnetcore.components.webassembly.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\10.0.7\\microsoft.aspnetcore.components.webassembly.devserver.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.aspnetcore.metadata\\10.0.8\\microsoft.aspnetcore.metadata.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.8\\microsoft.extensions.configuration.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.8\\microsoft.extensions.configuration.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.8\\microsoft.extensions.configuration.binder.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.7\\microsoft.extensions.configuration.fileextensions.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.7\\microsoft.extensions.configuration.json.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.7\\microsoft.extensions.dependencyinjection.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.diagnostics\\10.0.8\\microsoft.extensions.diagnostics.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.8\\microsoft.extensions.diagnostics.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.7\\microsoft.extensions.fileproviders.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.7\\microsoft.extensions.fileproviders.physical.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.7\\microsoft.extensions.filesystemglobbing.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.logging\\10.0.7\\microsoft.extensions.logging.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.8\\microsoft.extensions.logging.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.options\\10.0.8\\microsoft.extensions.options.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.8\\microsoft.extensions.options.configurationextensions.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.8\\microsoft.extensions.primitives.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.extensions.validation\\10.0.7\\microsoft.extensions.validation.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.jsinterop\\10.0.7\\microsoft.jsinterop.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.jsinterop.webassembly\\10.0.7\\microsoft.jsinterop.webassembly.10.0.7.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.8\\microsoft.net.illink.tasks.10.0.8.nupkg.sha512",
+    "C:\\Users\\LALO\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\10.0.8\\microsoft.net.sdk.webassembly.pack.10.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"AutoMapper\" 12.0.1 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "D:\\VSprojects\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\VSprojects\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0",
+        "net10.0/browser-wasm"
+      ]
+    }
+  ]
+}

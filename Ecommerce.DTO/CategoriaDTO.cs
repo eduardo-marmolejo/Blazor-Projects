@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Text;
+
+namespace Ecommerce.DTO
+{
+    public class CategoriaDTO
+    {
+        public int IdCategoria { get; set; }
+        [Required(ErrorMessage = "Ingrese el nombre")]
+
+        public string Nombre { get; set; }
+    }
+}

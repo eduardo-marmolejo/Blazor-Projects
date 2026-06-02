@@ -1,0 +1,15 @@
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\bin\Debug\net10.0\Ecommerce.Repositorio.deps.json
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\bin\Debug\net10.0\Ecommerce.Repositorio.dll
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\bin\Debug\net10.0\Ecommerce.Repositorio.pdb
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\bin\Debug\net10.0\Ecommerce.Modelo.dll
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\bin\Debug\net10.0\Ecommerce.Modelo.pdb
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\obj\Debug\net10.0\Ecommerce.Repositorio.csproj.AssemblyReference.cache
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\obj\Debug\net10.0\Ecommerce.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\obj\Debug\net10.0\Ecommerce.Repositorio.AssemblyInfoInputs.cache
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\obj\Debug\net10.0\Ecommerce.Repositorio.AssemblyInfo.cs
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\obj\Debug\net10.0\Ecommerce.Repositorio.csproj.CoreCompileInputs.cache
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\obj\Debug\net10.0\Ecommerc.A77D9652.Up2Date
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\obj\Debug\net10.0\Ecommerce.Repositorio.dll
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\obj\Debug\net10.0\refint\Ecommerce.Repositorio.dll
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\obj\Debug\net10.0\Ecommerce.Repositorio.pdb
+D:\VSprojects\Ecommerce\Ecommerce.Repositorio\obj\Debug\net10.0\ref\Ecommerce.Repositorio.dll

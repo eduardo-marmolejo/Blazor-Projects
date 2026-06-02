@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.DTO\Ecommerce.DTO.csproj" />
+    <ProjectReference Include="..\Ecommerce.Model\Ecommerce.Modelo.csproj" />
+    <ProjectReference Include="..\Ecommerce.Repositorio\Ecommerce.Repositorio.csproj" />
+    <ProjectReference Include="..\Ecommerce.Utilidades\Ecommerce.Utilidades.csproj" />
+  </ItemGroup>
+
+</Project>

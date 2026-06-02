@@ -1,0 +1,7 @@
+﻿@inherits LayoutComponentBase
+
+<NavMenu />
+<div class="container body-content">
+    @Body
+</div>
+

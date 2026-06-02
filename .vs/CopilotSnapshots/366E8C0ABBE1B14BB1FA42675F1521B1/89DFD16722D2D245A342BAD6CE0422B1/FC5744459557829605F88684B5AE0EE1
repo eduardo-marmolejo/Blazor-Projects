@@ -1,0 +1,34 @@
+﻿using Microsoft.JSInterop;
+
+namespace Ecommerce.WebAssembly.Servicios.Implementacion
+{
+    public class ToastService : IToastService
+    {
+        private readonly IJSRuntime _jsRuntime;
+
+        public ToastService(IJSRuntime jsRuntime)
+        {
+            _jsRuntime = jsRuntime;
+        }
+
+        public async void ShowSuccess(string message)
+        {
+            await _jsRuntime.InvokeVoidAsync("toastr.success", message);
+        }
+
+        public async void ShowError(string message)
+        {
+            await _jsRuntime.InvokeVoidAsync("toastr.error", message);
+        }
+
+        public async void ShowInfo(string message)
+        {
+            await _jsRuntime.InvokeVoidAsync("toastr.info", message);
+        }
+
+        public async void ShowWarning(string message)
+        {
+            await _jsRuntime.InvokeVoidAsync("toastr.warning", message);
+        }
+    }
+}

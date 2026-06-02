@@ -1,0 +1,17 @@
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\bin\Debug\net10.0\Ecommerce.Utilidades.deps.json
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\bin\Debug\net10.0\Ecommerce.Utilidades.dll
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\bin\Debug\net10.0\Ecommerce.Utilidades.pdb
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\bin\Debug\net10.0\Ecommerce.DTO.dll
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\bin\Debug\net10.0\Ecommerce.Modelo.dll
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\bin\Debug\net10.0\Ecommerce.DTO.pdb
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\bin\Debug\net10.0\Ecommerce.Modelo.pdb
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\obj\Debug\net10.0\Ecommerce.Utilidades.csproj.AssemblyReference.cache
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\obj\Debug\net10.0\Ecommerce.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\obj\Debug\net10.0\Ecommerce.Utilidades.AssemblyInfoInputs.cache
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\obj\Debug\net10.0\Ecommerce.Utilidades.AssemblyInfo.cs
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\obj\Debug\net10.0\Ecommerce.Utilidades.csproj.CoreCompileInputs.cache
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\obj\Debug\net10.0\Ecommerc.18246A98.Up2Date
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\obj\Debug\net10.0\Ecommerce.Utilidades.dll
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\obj\Debug\net10.0\refint\Ecommerce.Utilidades.dll
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\obj\Debug\net10.0\Ecommerce.Utilidades.pdb
+D:\VSprojects\Ecommerce\Ecommerce.Utilidades\obj\Debug\net10.0\ref\Ecommerce.Utilidades.dll
