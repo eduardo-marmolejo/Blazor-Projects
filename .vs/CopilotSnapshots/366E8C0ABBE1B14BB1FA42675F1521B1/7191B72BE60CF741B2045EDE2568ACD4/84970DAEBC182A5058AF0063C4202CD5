@@ -1,7 +1,0 @@
-﻿@page "/usuarios/{Id:int}"
-
-<h3>Usuario</h3>
-
-@code {
-
-}
